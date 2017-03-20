@@ -151,4 +151,4 @@ next = next?.next
 * ..... 等等
 
 ###<a name="总结"></a>总结
-响应者链日常开发中经常用到，属于必需要掌握掌握的一个技巧，本文用swift讲解，[GitHub地址](https://github.com/developeryh/ResponderChain.git)。
+响应者链日常开发中经常用到，属于必需要掌握掌握的一个技巧，本文用swift讲解，[简书地址](http://www.jianshu.com/p/e9882506bfd7)。
